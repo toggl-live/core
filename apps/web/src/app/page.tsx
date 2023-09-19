@@ -10,7 +10,7 @@ export default async function Index() {
    * Note: The corresponding styles are in the ./index.scss file.
    */
   return (
-    <div className="h-full">
+    <div className="h-full w-full">
       <Example />
     </div>
   );
